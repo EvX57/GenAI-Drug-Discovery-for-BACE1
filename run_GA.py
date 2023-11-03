@@ -1,6 +1,6 @@
 from Vocabulary import Vocabulary
 from AE import Autoencoder as AE
-from GA_LV import GA
+from GA import GA
 from predictor_lv import Predictor
 import pandas as pd
 
