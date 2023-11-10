@@ -1,5 +1,5 @@
 # GenAI-Drug-Discovery-for-AD
-The training datasets, python scripts, trained models, and generated candidate drugs from the * de novo*  generative AI drug discovery framework developed in "Discovery of Novel BACE1 Inhibitors for Alzheimer’s Disease with Generative AI."
+The training datasets, python scripts, trained models, and generated candidate drugs from the * de novo*  generative AI drug discovery framework developed in "AI-Guided Discovery of BACE1 Inhibitors for Alzheimer’s Disease."
 
 * `datasets`: contains the preprocessed versions of the general and targeted molecular datasets
 * `models`: contains the trained autoencoder, molecular property predictor, WGAN-GP, and GA models
